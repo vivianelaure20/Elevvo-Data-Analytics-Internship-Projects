@@ -1,72 +1,50 @@
-#  Task 1: Sales Performance Dashboard (Excel)
 
-###  Internship Track: Data Analytics — Elevvo Pathways (SEPTEMBER 2025)
-
----
-
-##  Objective
-
-To create a professional sales performance dashboard using Microsoft Excel, applying data cleaning, pivot tables, charts, and key performance indicators (KPIs) for business insights.
+#  Elevvo Internship — Data Analytics Tasks
+This repository documents the tasks I completed during my internship at **Elevvo**, focusing on **Python-based data analysis, SQL business queries, and Power BI dashboards**.  
+Each task simulates an **industry-level business problem** and demonstrates **data cleaning, analysis, visualization, and storytelling skills**.
 
 ---
 
-##  Dataset
-
-- **Source**: Superstore Sales Dataset (Kaggle)
-- **Fields**: Order Date, Category, Region, Sales, Quantity, Profit, etc.
-
----
-
-##  Data Cleaning
-
-- Removed duplicate rows and blank entries.
-- Converted date fields to proper formats.
-- Extracted **Month-Year** from `Order Date` for trend analysis.
+##  Internship Overview
+- **Role:** Data Analytics Intern  
+- **Duration:** 1 Month  
+- **Company:** Elevvo  
+- **Skills Gained:** Python (Pandas, Matplotlib, Seaborn), SQL, Power BI, EDA, DAX, RFM Segmentation, Data Modelling, Dashboard Design  
+- **Focus Areas:** Data-driven decision making, KPI tracking, customer segmentation, retail analytics
 
 ---
 
-##  Excel Features Used
+##  Tasks Completed
 
-| Feature | Purpose |
-|--------|---------|
-| Pivot Tables | Summarised sales data by Month, Region, and Category |
-| Pivot Charts | Visualised monthly trends |
-| Slicers | Added filters for Region and Category |
-| Formulas | Calculated KPIs (Total Sales, etc.) |
-| Conditional Formatting | Highlighted key variations and trends |
+### **Task 1 — Python EDA: Walmart Sales Forecasting**
+- Dataset: Kaggle — Walmart Sales Forecasting  
+- Conducted **data cleaning, missing value handling, and exploratory data analysis (EDA)**  
+- Generated **trend, seasonality, and correlation insights** for retail sales  
+- Exported cleaned datasets for further BI integration  
+ 
+  
+---
+
+## 🛠 Tools & Technologies
+- **Languages:** Python, SQL (PostgreSQL)  
+- **Libraries:** Pandas, Matplotlib, Seaborn  
+- **Visualization Tools:** Power BI  
 
 ---
 
-##  Key Charts & Visuals
+##  About Me
 
-- **Sales Trend by Month**
-- **Sales by Category**
-- **Sales by Region**
-- KPI Cards with Total Sales
+**Name:** SOP MAMCHIE VIVIANE LAURE\
+**Role:** Data Analyst Intern\ 
+**Focus:** Data Analytics • SQL • Python • Power BI\
 
----
+##  Connect With Me
 
-##  Key Insights
-
--  **Highest sales** occurred in **September 2015** and **November 2018**.
--  Categories like **Technology** and **Office Supplies** consistently outperformed others.
--  **Western** and **Central regions** contributed significantly to revenue.
+-  Email: vivianelauresop85@gmail.com  
+-  LinkedIn: [(https://www.linkedin.com/in/viviane-sop-2ab302185/)]\
+-  GitHub: [(https://github.com/vivianelaure20)]
 
 ---
 
-##  Deliverables
 
--  Excel File (Dashboard + Pivot Tables)
--  Final dashboard screenshot
-
----
-
-##  Outcome
-
-This project simulates a real-world business reporting scenario, utilising Excel to provide decision-makers with quick insights. It demonstrates foundational data analysis skills in spreadsheet tools — an essential skill for any analyst.
-
----
-
-##  Part of Elevvo Data Analytics Internship  
- Duration: SEPTEMBER 2025  
- [Elevvo.tech](https://www.elevvo.tech)
+**This repository serves as a portfolio of my internship projects, showcasing my ability to work with real-world datasets, derive insights, and present them effectively using BI tools.**
